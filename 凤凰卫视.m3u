@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://cdn.rologo.com/wp-content/uploads/2012/01/PhonixTVlogo.png" tvg-url="http://epg.51zmt.top:8000/gat.xml" group-title="凤凰卫视",凤凰卫视中文台
-http://qlive.fengshows.cn/live720p/PCC.flv
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1280px-Phoenix_InfoNews.svg.png" tvg-url="http://epg.51zmt.top:8000/gat.xml" group-title="凤凰卫视",凤凰卫视资讯台
-http://qlive.fengshows.cn/live720p/PIN.flv
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://cdn.rologo.com/wp-content/uploads/2012/01/PhonixTVlogoHK.png" tvg-url="http://epg.51zmt.top:8000/gat.xml" group-title="凤凰卫视",凤凰卫视香港台
-http://qlive.fengshows.cn/live720p/PHK.flv
