@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,凤凰卫视中文台
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台",凤凰卫视中文台
 http://qlive.fengshows.cn/live720p/PCC.flv
-#EXTINF:-1 ,凤凰卫视资讯台
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台",凤凰卫视资讯台
 http://qlive.fengshows.cn/live720p/PIN.flv
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台",凤凰卫视香港台
+http://qlive.fengshows.cn/live720p/PHK.flv
