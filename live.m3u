@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/gat.xml"
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",無綫新聞台
-http://www.liveviptv.xyz/tv/tvb.php
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PCC.png" group-title="凤凰卫视",凤凰卫视中文台
 http://qlive.fengshows.cn/live720p/PCC.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PIN.png" group-title="凤凰卫视",凤凰卫视资讯台
 http://qlive.fengshows.cn/live720p/PIN.flv
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PHK.png" group-title="凤凰卫视",鳳凰衛視香港台
 http://qlive.fengshows.cn/live720p/PHK.flv
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVBNC.png" group-title="TVB",無綫新聞台
+http://www.liveviptv.xyz/tv/tvb.php
