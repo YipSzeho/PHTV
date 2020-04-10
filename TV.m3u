@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/gat.xml"
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://gitee.com/YipSzeho/PHTV/raw/master/logo/PCC.png" group-title="凤凰卫视",凤凰卫视中文台
+http://qlive.fengshows.cn/live720p/PCC.flv
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/YipSzeho/PHTV/raw/master/logo/PIN.png" group-title="凤凰卫视",凤凰卫视资讯台
+http://qlive.fengshows.cn/live720p/PIN.flv
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://gitee.com/YipSzeho/PHTV/raw/master/logo/PHK.png" group-title="凤凰卫视",鳳凰衛視香港台
+http://qlive.fengshows.cn/live720p/PHK.flv
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",翡翠台
+http://104.233.176.65:13164/play.m3u8?token=Yv0sEqHOi%2FZWMmJILhK0EEFZ&tid=gt&id=1&p=1&_res_tag_=video
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",J2
+http://104.233.176.65:13164/play.m3u8?token=gAe%2BatI41Rz4qycT6C71hWd4&tid=gt&id=12&p=1&_res_tag_=video
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",無綫新聞台
+http://104.233.176.65:13164/play.m3u8?token=sk7dyFhU0xhq6p2S1Tm9blyq&tid=gt&id=9&p=1&_res_tag_=video
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",明珠台
+http://104.233.176.65:13164/play.m3u8?token=FkuJtA9BKY5y1pN3srzLZ3s%2B&tid=gt&id=13&p=1&_res_tag_=video
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",無綫財經·資訊台
+http://104.233.176.65:13164/play.m3u8?token=xd2kbp67fbkoRpiJNfPePTx5&tid=gt&id=10&p=1&_res_tag_=video
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/ViuTV.png" group-title="ViuTV",ViuTV
+http://104.233.176.65:13164/play.m3u8?token=lo7DBcuoMEepVJVM5CVN0vLX&tid=gt&id=8&p=1&_res_tag_=video
