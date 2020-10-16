@@ -1,4 +1,4 @@
-# 以失效
+# 直播源已失效
 
 # IPTV地址
 - [凤凰卫视官方源.m3u](https://raw.githubusercontent.com/YipSzeho/PHTV/master/live.m3u) (HD)
