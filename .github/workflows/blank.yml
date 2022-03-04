@@ -21,6 +21,6 @@ jobs:
         github_repo: ACL4SSR/ACL4SSR
         github_branch: master
         gitee_repo: Machikado/rules
-        gitee_branch: test
+        gitee_branch: master
         username: ${{ secrets.GITEE_USERNAME }}
         password: ${{ secrets.GITEE_PASSWORD }}
